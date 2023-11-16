@@ -10,7 +10,7 @@ img{
     position: absolute;
 }
 .textnav{
-    color: #398B8D;
+    color: #FF783F;
     font-family: 'arial';
     font-style: normal;
     top: 50%;
@@ -24,14 +24,14 @@ img{
     align-items: center;
 }
 .titulo{
-    color: #398B8D;
+    color: #FF783F;
     font-family: 'Koulen';
     font-style: normal;
     text-align: center;
     font-size: 3rem;
 }
 .foot{
-    background-color: #1D4A4B;
+    background-color: #FF783F;
     position: absolute;
     width: 100%;
     height: 6VH;
@@ -127,7 +127,7 @@ nav ul{
         font-size: 0.9em;
     }
     .textnav{
-        color:#1D4A4B;
+        color:#FF783F;
         font-family: 'arial';
         font-style: normal;
         font-size: 0.8rem;
@@ -135,7 +135,7 @@ nav ul{
         padding: 1%;
     }
     nav ul li{
-        background-color: #B9E6E8;
+        background-color: #1D4A4B;
         width: 20%;
         height: 5%;
         margin: 1%;
@@ -144,7 +144,7 @@ nav ul{
         border-radius: 20px;
     }
     .titulo{
-        color: #B9E6E8;
+        color: #FF783F;
         font-family: 'Koulen';
         font-style: normal;
         text-align: center;
@@ -158,7 +158,7 @@ nav ul{
         border-radius: 29px;
         height: 28%;
         left: 31%;
-        top: 32%;
+        top: 25%;
         position: absolute;
         right: 10%;
     }
@@ -186,7 +186,7 @@ nav ul{
         font-size: 0.9em;
     }
     .textnav{
-        color: #1D4A4B;
+        color: #FF783F;
         font-family: 'arial';
         font-style: normal;
         font-size: 0.8rem;
@@ -203,8 +203,8 @@ nav ul{
         border-radius: 20px;
     }
     .titulo{
-        color: #1D4A4B;
-        font-family: 'Koulen';
+        color: #FF783F;
+        font-family: 'arial';
         font-style: normal;
         text-align: center;
         font-size: 1.5rem;
@@ -241,7 +241,7 @@ nav ul{
         color: black;
         font-family: 'arial';
         font-style: normal;
-        font-size: 0.9em;
+        font-size: 0.8em;
     }
     .textnav{
         color: #1D4A4B;
@@ -312,15 +312,13 @@ nav ul{
 }
 
 a {
-    color: black;
+    color:#FF783F;
     text-decoration: none;
   }
 a:hover {
     color: #B9E6E8;
   }
 
-.texto1A{
-    margin:10%;
-}
+
 
 
